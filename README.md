@@ -42,15 +42,15 @@ My strongest technical experience is with SQL Server, including database analysi
 
 - Leave Request Workflow
 
-An automated process for receiving employee leave requests, validating the requested days, recording the information, and creating related calendar and task entries.
+  An automated process for receiving employee leave requests, validating the requested days, recording the information, and creating related calendar and task      entries.
 
-Technologies: n8n, PostgreSQL, Google Calendar, Trello, and webhooks.
+  Technologies: n8n, PostgreSQL, Google Calendar, Trello, and webhooks.
 
 - Email-to-Task Automation
 
-An automated workflow that converts selected incoming emails into Trello tasks to improve request tracking and follow-up.
+  An automated workflow that converts selected incoming emails into Trello tasks to improve request tracking and follow-up.
 
-Technologies: Microsoft Power Automate, Outlook, and Trello.
+  Technologies: Microsoft Power Automate, Outlook, and Trello.
 
 🌱 Professional development
 
