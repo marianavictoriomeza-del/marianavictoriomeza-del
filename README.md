@@ -21,32 +21,32 @@ My strongest technical experience is with SQL Server, including database analysi
 - Workflow automation with n8n
 
 📚 Currently learning and practicing
-Docker
-GitHub and GitHub Desktop
-Postman and REST APIs
-Artificial intelligence fundamentals
-Data analysis and visualization
+- Docker
+- GitHub and GitHub Desktop
+- Postman and REST APIs
+- Artificial intelligence fundamentals
+- Data analysis and visualization
 
 🚀 Personal projects
-Technical Knowledge Assistant
+- Technical Knowledge Assistant
 
-An n8n workflow that receives voice messages through Telegram, transcribes and processes the information using AI, and stores the resulting technical documentation in PostgreSQL.
+  An n8n workflow that receives voice messages through Telegram, transcribes and processes the information using AI, and stores the resulting technical documentation in PostgreSQL.
 
-Technologies: n8n, Telegram Bot API, PostgreSQL, and AI models.
+  Technologies: n8n, Telegram Bot API, PostgreSQL, and AI models.
 
-Inventory Management Automation
+- Inventory Management Automation
 
-A workflow for validating orders, checking product availability, and updating inventory records using n8n and PostgreSQL.
+  A workflow for validating orders, checking product availability, and updating inventory records using n8n and PostgreSQL.
 
-Technologies: n8n, PostgreSQL, JavaScript, and APIs.
+  Technologies: n8n, PostgreSQL, JavaScript, and APIs.
 
-Leave Request Workflow
+- Leave Request Workflow
 
 An automated process for receiving employee leave requests, validating the requested days, recording the information, and creating related calendar and task entries.
 
 Technologies: n8n, PostgreSQL, Google Calendar, Trello, and webhooks.
 
-Email-to-Task Automation
+- Email-to-Task Automation
 
 An automated workflow that converts selected incoming emails into Trello tasks to improve request tracking and follow-up.
 
@@ -62,12 +62,12 @@ I recently completed the first course of the Google AI Fundamentals program and 
 
 I'm interested in opportunities related to:
 
-Business Systems Analysis
-Systems Analysis
-Process Improvement
-Workflow Automation
-Data Analysis
-Application and Production Support
+- Business Systems Analysis
+- Systems Analysis
+- Process Improvement
+- Workflow Automation
+- Data Analysis
+- Application and Production Support
 🤝 Connect with me
 
 www.linkedin.com/in/mariana-victorio-meza
