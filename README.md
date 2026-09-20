@@ -6,25 +6,19 @@ I have experience working between users, technical teams, and business stakehold
 
 My strongest technical experience is with SQL Server, including database analysis, troubleshooting, stored procedures, data validation, and merge replication environments.
 
-💼 Core skills
-Business and systems analysis
-Requirements gathering and analysis
-SQL Server
-Database troubleshooting and data validation
-Software testing and quality assurance
-Production support and incident resolution
-Release and deployment coordination
-Process improvement
-Technical and user documentation
-Stakeholder and client communication
-Workflow automation with n8n
-🛠️ Additional tools and technologies
-PostgreSQL
-Power BI
-PowerBuilder
-Trello
-Microsoft 365
-Google Workspace
+## 💼 Core skills
+
+- Business and systems analysis
+- Requirements gathering and analysis
+- SQL Server
+- Database troubleshooting and data validation
+- Software testing and quality assurance
+- Production support and incident resolution
+- Release and deployment coordination
+- Process improvement
+- Technical and user documentation
+- Stakeholder and client communication
+- Workflow automation with n8n
 
 📚 Currently learning and practicing
 Docker
